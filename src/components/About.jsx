@@ -40,11 +40,8 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Computer Science student at SRM University and multilingual speaker with a passion
-        for ethical hacking, artificial intelligence, and neural language processing. I am looking
-        to join a company that values innovation, collaboration, and continuous learning and am
-        confident that my enthusiasm and drive will help me succeed in any role that leverages my
-        passion for technology.
+        I am a Computer Science graduate and Full-Stack WordPress Developer with 3+ years of professional experience in website development, custom themes, plugins, and Elementor widgets. I have strong skills in WordPress, PHP, MySQL, JavaScript, HTML, CSS, REST APIs, WooCommerce, and responsive web development. I am passionate about building scalable, user-friendly, and high-performance web solutions and continuously learning new technologies. I am looking to join a company that values innovation, collaboration, and continuous growth, where I can contribute my technical skills while developing my expertise as a full-stack developer.
+
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
